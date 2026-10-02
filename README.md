@@ -11,5 +11,6 @@ This repository contains the R code for the manuscript **“Implicit Doubly Robu
 | `simulation_categorical_covariates_only.R` | Supplementary simulation comparing poststratification, grouped inverse probability weighting (IPW), and ET with categorical covariates using joint population cell counts, details can be found in supplementary section 6.3. |
 | `simulation_kappa1.R` | Supplementary simulation using different selection-strength setting, \(\kappa=1\), details can be found in supplementary section 6.1. |
 | `simulation_reduced_basis.R` | Supplementary analysis of a reduced calibration basis under nonlinear selection, details can be found in supplementary section 6.2. |
+| `cross_entropy_weights_function.R` | Ready to use function for cross entropy weighting. |
 
 All the analyses are performed with R 4.3.3.
